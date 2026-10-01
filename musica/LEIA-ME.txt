@@ -1,0 +1,2 @@
+Coloque aqui faixas MP3 livres de direitos (ex.: licença CC0 ou com permissão por escrito).
+Elas tocam em sequência durante as corridas. A lista é atualizada sozinha ao rodar npm run dev ou npm run build.

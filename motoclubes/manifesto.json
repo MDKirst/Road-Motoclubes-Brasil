@@ -1,0 +1,677 @@
+{
+  "geradoEm": "2026-09-24T03:54:39.328Z",
+  "versaoSnv": "202607A",
+  "clubes": [
+    {
+      "slug": "calaveras-moto-amigo",
+      "nome": "Calaveras Moto Amigo",
+      "cidade": "Londrina",
+      "codigoIbge": "4113700",
+      "pista": "prudentopolis",
+      "cores": [
+        "#99712A",
+        "#D0922E",
+        "#5A4427"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/calaveras-moto-amigo/brasao.png",
+      "miniatura": "motoclubes/calaveras-moto-amigo/miniatura.png",
+      "largura": 929,
+      "altura": 803,
+      "fundo": "recortado",
+      "patch": "nenhum"
+    },
+    {
+      "slug": "quatis-das-cataratas",
+      "nome": "Quatis das Cataratas",
+      "cidade": "Foz do Iguaçu",
+      "codigoIbge": "4108304",
+      "pista": "foz-do-iguacu",
+      "cores": [
+        "#56605D",
+        "#9A8268",
+        "#99B2BC"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/quatis-das-cataratas/brasao.png",
+      "miniatura": "motoclubes/quatis-das-cataratas/miniatura.png",
+      "largura": 440,
+      "altura": 412,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "skeleto-s-da-estrada",
+      "nome": "Skeleto's da estrada",
+      "cidade": "Nova Olímpia",
+      "codigoIbge": "4117206",
+      "pista": "cascavel",
+      "cores": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/skeleto-s-da-estrada/brasao.png",
+      "miniatura": "motoclubes/skeleto-s-da-estrada/miniatura.png",
+      "largura": 1080,
+      "altura": 1080,
+      "fundo": "recortado",
+      "patch": "claro"
+    },
+    {
+      "slug": "boinas-vermelha-mc",
+      "nome": "Boinas vermelha MC",
+      "cidade": "São José dos Pinhais",
+      "codigoIbge": "4125506",
+      "pista": "sao-jose-dos-pinhais",
+      "cores": [
+        "#0000FF",
+        "#FF0000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/boinas-vermelha-mc/brasao.png",
+      "miniatura": "motoclubes/boinas-vermelha-mc/miniatura.png",
+      "largura": 720,
+      "altura": 509,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "iron-soldiers-mc",
+      "nome": "Iron Soldiers MC",
+      "cidade": "Toledo",
+      "codigoIbge": "4127700",
+      "pista": "cascavel",
+      "cores": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/iron-soldiers-mc/brasao.png",
+      "miniatura": "motoclubes/iron-soldiers-mc/miniatura.png",
+      "largura": 640,
+      "altura": 640,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "cachorroes-do-asfalto",
+      "nome": "CACHORRÕES DO ASFALTO",
+      "cidade": "Campo Mourão",
+      "codigoIbge": "4104303",
+      "pista": "laranjeiras-do-sul",
+      "cores": [
+        "#E22400",
+        "#111827"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/cachorroes-do-asfalto/brasao.png",
+      "miniatura": "motoclubes/cachorroes-do-asfalto/miniatura.png",
+      "largura": 1600,
+      "altura": 1600,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "robalos-rebeldes",
+      "nome": "Robalos Rebeldes",
+      "cidade": "Paranaguá",
+      "codigoIbge": "4118204",
+      "pista": "paranagua",
+      "cores": [
+        "#F9DB15",
+        "#0037AD"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/robalos-rebeldes/brasao.png",
+      "miniatura": "motoclubes/robalos-rebeldes/miniatura.png",
+      "largura": 1736,
+      "altura": 2048,
+      "fundo": "transparente",
+      "patch": "claro"
+    },
+    {
+      "slug": "fenix-moto-clube",
+      "nome": "Fênix Moto Clube",
+      "cidade": "Maringá",
+      "codigoIbge": "4115200",
+      "pista": "laranjeiras-do-sul",
+      "cores": [
+        "#000000",
+        "#FF0000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/fenix-moto-clube/brasao.png",
+      "miniatura": "motoclubes/fenix-moto-clube/miniatura.png",
+      "largura": 1220,
+      "altura": 1121,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "ubirata-moto-clube",
+      "nome": "Ubiratã Moto Clube",
+      "cidade": "Ubiratã",
+      "codigoIbge": "4128005",
+      "pista": "cascavel",
+      "cores": [
+        "#9D9C9B",
+        "#6A6968",
+        "#232221"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/ubirata-moto-clube/brasao.png",
+      "miniatura": "motoclubes/ubirata-moto-clube/miniatura.png",
+      "largura": 465,
+      "altura": 707,
+      "fundo": "recortado",
+      "patch": "claro"
+    },
+    {
+      "slug": "legionarios-moto-clube",
+      "nome": "Legionários Moto Clube",
+      "cidade": "Foz do Iguaçu",
+      "codigoIbge": "4108304",
+      "pista": "foz-do-iguacu",
+      "cores": [
+        "#000000",
+        "#C0C0C0"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/legionarios-moto-clube/brasao.png",
+      "miniatura": "motoclubes/legionarios-moto-clube/miniatura.png",
+      "largura": 512,
+      "altura": 476,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "moto-grupo-barulhentos",
+      "nome": "Moto Grupo Barulhentos",
+      "cidade": "Pranchita",
+      "codigoIbge": "4120358",
+      "pista": "matelandia",
+      "cores": [
+        "#EAB308",
+        "#111827"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/moto-grupo-barulhentos/brasao.png",
+      "miniatura": "motoclubes/moto-grupo-barulhentos/miniatura.png",
+      "largura": 1024,
+      "altura": 764,
+      "fundo": "recortado",
+      "patch": "nenhum"
+    },
+    {
+      "slug": "filhos-da-serpente-moto-clube",
+      "nome": "Filhos da Serpente Moto Clube",
+      "cidade": "Cascavel",
+      "codigoIbge": "4104808",
+      "pista": "cascavel",
+      "cores": [
+        "#EAB308",
+        "#111827"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/filhos-da-serpente-moto-clube/brasao.png",
+      "miniatura": "motoclubes/filhos-da-serpente-moto-clube/miniatura.png",
+      "largura": 1024,
+      "altura": 923,
+      "fundo": "recortado",
+      "patch": "nenhum"
+    },
+    {
+      "slug": "the-roots-mc",
+      "nome": "The Roots MC",
+      "cidade": "Foz do Iguaçu",
+      "codigoIbge": "4108304",
+      "pista": "foz-do-iguacu",
+      "cores": [
+        "#DC2626",
+        "#111827"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/the-roots-mc/brasao.png",
+      "miniatura": "motoclubes/the-roots-mc/miniatura.png",
+      "largura": 838,
+      "altura": 1024,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "associacao-de-motociclistas-orquidea-negra-moto-clube",
+      "nome": "Associação de Motociclistas Orquídea Negra Moto Clube",
+      "cidade": "Corbélia",
+      "codigoIbge": "4106308",
+      "pista": "cascavel",
+      "cores": [
+        "#000000",
+        "#FCFCFC"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/associacao-de-motociclistas-orquidea-negra-moto-clube/brasao.png",
+      "miniatura": "motoclubes/associacao-de-motociclistas-orquidea-negra-moto-clube/miniatura.png",
+      "largura": 693,
+      "altura": 595,
+      "fundo": "recortado",
+      "patch": "claro"
+    },
+    {
+      "slug": "minhocas-do-asfalto",
+      "nome": "Minhocas do Asfalto",
+      "cidade": "Cascavel",
+      "codigoIbge": "4104808",
+      "pista": "cascavel",
+      "cores": [
+        "#221011",
+        "#9C9596",
+        "#EFF0F0"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/minhocas-do-asfalto/brasao.png",
+      "miniatura": "motoclubes/minhocas-do-asfalto/miniatura.png",
+      "largura": 325,
+      "altura": 431,
+      "fundo": "transparente",
+      "patch": "claro"
+    },
+    {
+      "slug": "imperator-moto-clube",
+      "nome": "IMPERATOR MOTO CLUBE",
+      "cidade": "Tapejara",
+      "codigoIbge": "4126801",
+      "pista": "cascavel",
+      "cores": [
+        "#9C5451",
+        "#302323",
+        "#FAF8F8"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/imperator-moto-clube/brasao.png",
+      "miniatura": "motoclubes/imperator-moto-clube/miniatura.png",
+      "largura": 233,
+      "altura": 243,
+      "fundo": "recortado",
+      "patch": "nenhum"
+    },
+    {
+      "slug": "caoticos-m-c",
+      "nome": "Caóticos M.C",
+      "cidade": "Toledo",
+      "codigoIbge": "4127700",
+      "pista": "cascavel",
+      "cores": [
+        "#F5F5F5",
+        "#707070",
+        "#353535"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/caoticos-m-c/brasao.png",
+      "miniatura": "motoclubes/caoticos-m-c/miniatura.png",
+      "largura": 2048,
+      "altura": 959,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "red-foot-mc",
+      "nome": "Red Foot MC",
+      "cidade": "Cafelândia",
+      "codigoIbge": "4103453",
+      "pista": "cascavel",
+      "cores": [
+        "#DC2626",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/red-foot-mc/brasao.png",
+      "miniatura": "motoclubes/red-foot-mc/miniatura.png",
+      "largura": 365,
+      "altura": 293,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "hermandad-motera-internacional",
+      "nome": "Hermandad Motera Internacional",
+      "cidade": "Londrina",
+      "codigoIbge": "4113700",
+      "pista": "prudentopolis",
+      "cores": [
+        "#00FF00",
+        "#FFFF00"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/hermandad-motera-internacional/brasao.png",
+      "miniatura": "motoclubes/hermandad-motera-internacional/miniatura.png",
+      "largura": 864,
+      "altura": 1080,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "makarios-moto-clube",
+      "nome": "MAKÁRIOS MOTO CLUBE",
+      "cidade": "Toledo",
+      "codigoIbge": "4127700",
+      "pista": "cascavel",
+      "cores": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/makarios-moto-clube/brasao.png",
+      "miniatura": "motoclubes/makarios-moto-clube/miniatura.png",
+      "largura": 1065,
+      "altura": 1065,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "alianca-estradeira",
+      "nome": "ALIANÇA ESTRADEIRA",
+      "cidade": "Céu Azul",
+      "codigoIbge": "4105300",
+      "pista": "ceu-azul",
+      "cores": [
+        "#53504C",
+        "#2B2927",
+        "#82807C"
+      ],
+      "coresExtraidas": true,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/alianca-estradeira/brasao.png",
+      "miniatura": "motoclubes/alianca-estradeira/miniatura.png",
+      "largura": 752,
+      "altura": 738,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "amigos-duas-rodas",
+      "nome": "Amigos Duas Rodas",
+      "cidade": "Matelândia",
+      "codigoIbge": "4115606",
+      "pista": "matelandia",
+      "cores": [
+        "#FFD700",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/amigos-duas-rodas/brasao.png",
+      "miniatura": "motoclubes/amigos-duas-rodas/miniatura.png",
+      "largura": 249,
+      "altura": 244,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "forasteiros-do-oeste-mc",
+      "nome": "Forasteiros do Oeste MC",
+      "cidade": "Santa Helena",
+      "codigoIbge": "4123501",
+      "pista": "matelandia",
+      "cores": [
+        "#EAB308",
+        "#DC2626"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/forasteiros-do-oeste-mc/brasao.png",
+      "miniatura": "motoclubes/forasteiros-do-oeste-mc/miniatura.png",
+      "largura": 238,
+      "altura": 240,
+      "fundo": "recortado",
+      "patch": "claro"
+    },
+    {
+      "slug": "esquadrilha-da-fumaca-mc",
+      "nome": "Esquadrilha da Fumaça MC",
+      "cidade": "Paranavaí",
+      "codigoIbge": "4118402",
+      "pista": "guaraniacu",
+      "cores": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/esquadrilha-da-fumaca-mc/brasao.png",
+      "miniatura": "motoclubes/esquadrilha-da-fumaca-mc/miniatura.png",
+      "largura": 481,
+      "altura": 516,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "neandertais-mg",
+      "nome": "NEANDERTAIS MG",
+      "cidade": "Laranjeiras do Sul",
+      "codigoIbge": "4113304",
+      "pista": "laranjeiras-do-sul",
+      "cores": [
+        "#FF0000",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/neandertais-mg/brasao.png",
+      "miniatura": "motoclubes/neandertais-mg/miniatura.png",
+      "largura": 1080,
+      "altura": 1331,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
+      "slug": "platon-s-moto-clube",
+      "nome": "Platon's Moto Clube",
+      "cidade": "Peabiru",
+      "codigoIbge": "4118808",
+      "pista": "laranjeiras-do-sul",
+      "cores": [
+        "#FFFFFF",
+        "#DB6816"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/platon-s-moto-clube/brasao.png",
+      "miniatura": "motoclubes/platon-s-moto-clube/miniatura.png",
+      "largura": 1599,
+      "altura": 1599,
+      "fundo": "opaco",
+      "patch": "preto"
+    }
+  ],
+  "pistas": [
+    {
+      "slug": "paranagua",
+      "nome": "Paranaguá",
+      "cidade": "Paranaguá",
+      "kmCentro": 0,
+      "kmInicio": 0,
+      "kmFim": 12,
+      "clubes": [
+        "robalos-rebeldes"
+      ]
+    },
+    {
+      "slug": "sao-jose-dos-pinhais",
+      "nome": "São José dos Pinhais",
+      "cidade": "São José dos Pinhais",
+      "kmCentro": 83.03742286732836,
+      "kmInicio": 77.03742286732836,
+      "kmFim": 89.03742286732836,
+      "clubes": [
+        "boinas-vermelha-mc"
+      ]
+    },
+    {
+      "slug": "prudentopolis",
+      "nome": "Prudentópolis",
+      "cidade": "Prudentópolis",
+      "kmCentro": 303.89284632229646,
+      "kmInicio": 297.89284632229646,
+      "kmFim": 309.89284632229646,
+      "clubes": [
+        "calaveras-moto-amigo",
+        "hermandad-motera-internacional"
+      ]
+    },
+    {
+      "slug": "laranjeiras-do-sul",
+      "nome": "Laranjeiras do Sul",
+      "cidade": "Laranjeiras do Sul",
+      "kmCentro": 457.91505579993657,
+      "kmInicio": 451.91505579993657,
+      "kmFim": 463.91505579993657,
+      "clubes": [
+        "neandertais-mg",
+        "cachorroes-do-asfalto",
+        "platon-s-moto-clube",
+        "fenix-moto-clube"
+      ]
+    },
+    {
+      "slug": "guaraniacu",
+      "nome": "Guaraniaçu",
+      "cidade": "Guaraniaçu",
+      "kmCentro": 528.0668173880663,
+      "kmInicio": 522.0668173880663,
+      "kmFim": 534.0668173880663,
+      "clubes": [
+        "esquadrilha-da-fumaca-mc"
+      ]
+    },
+    {
+      "slug": "cascavel",
+      "nome": "Cascavel",
+      "cidade": "Cascavel",
+      "kmCentro": 591.1058382994444,
+      "kmInicio": 585.1058382994444,
+      "kmFim": 597.1058382994444,
+      "clubes": [
+        "filhos-da-serpente-moto-clube",
+        "minhocas-do-asfalto",
+        "associacao-de-motociclistas-orquidea-negra-moto-clube",
+        "iron-soldiers-mc",
+        "caoticos-m-c",
+        "makarios-moto-clube",
+        "red-foot-mc",
+        "ubirata-moto-clube",
+        "imperator-moto-clube",
+        "skeleto-s-da-estrada"
+      ]
+    },
+    {
+      "slug": "ceu-azul",
+      "nome": "Céu Azul",
+      "cidade": "Céu Azul",
+      "kmCentro": 639.5428161150562,
+      "kmInicio": 633.5428161150562,
+      "kmFim": 645.5428161150562,
+      "clubes": [
+        "alianca-estradeira"
+      ]
+    },
+    {
+      "slug": "matelandia",
+      "nome": "Matelândia",
+      "cidade": "Matelândia",
+      "kmCentro": 660.0902442790821,
+      "kmInicio": 654.0902442790821,
+      "kmFim": 666.0902442790821,
+      "clubes": [
+        "amigos-duas-rodas",
+        "forasteiros-do-oeste-mc",
+        "moto-grupo-barulhentos"
+      ]
+    },
+    {
+      "slug": "foz-do-iguacu",
+      "nome": "Foz do Iguaçu",
+      "cidade": "Foz do Iguaçu",
+      "kmCentro": 731.4974641893727,
+      "kmInicio": 721.8,
+      "kmFim": 733.8,
+      "clubes": [
+        "quatis-das-cataratas",
+        "legionarios-moto-clube",
+        "the-roots-mc"
+      ]
+    },
+    {
+      "slug": "foz-cascavel",
+      "nome": "Foz do Iguaçu → Cascavel",
+      "kmInicio": 733.8,
+      "kmFim": 586.9,
+      "clubes": [
+        "quatis-das-cataratas",
+        "legionarios-moto-clube",
+        "the-roots-mc",
+        "filhos-da-serpente-moto-clube",
+        "minhocas-do-asfalto",
+        "associacao-de-motociclistas-orquidea-negra-moto-clube",
+        "iron-soldiers-mc",
+        "caoticos-m-c",
+        "makarios-moto-clube",
+        "red-foot-mc",
+        "ubirata-moto-clube",
+        "imperator-moto-clube",
+        "skeleto-s-da-estrada",
+        "alianca-estradeira",
+        "amigos-duas-rodas",
+        "forasteiros-do-oeste-mc",
+        "moto-grupo-barulhentos"
+      ],
+      "extra": true
+    }
+  ]
+}
