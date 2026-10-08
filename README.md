@@ -16,4 +16,9 @@ No menu: "automática" escolhe pela placa de vídeo. Se travar, use "baixa".
 FONTES E CRÉDITOS
 Traçado: DNIT (SNV) · municípios: IBGE · relevo: SRTM/NASA ·
 © contribuidores do OpenStreetMap · prédios: Overture Maps (ODbL) ·
+imagens de satélite: CBERS-4A / INPE ·
 personagens: Quaternius (CC0). Brasões pertencem aos respectivos motoclubes.
+
+As texturas tracks/*/satelite*.webp e tracks/*/vegetacao*.png são derivadas
+de imagens CBERS-4A/WPM do INPE e ficam sob a licença CC BY-SA 4.0
+(crédito: imagens CBERS-4A / INPE). O restante segue a licença MIT do arquivo LICENSE.
