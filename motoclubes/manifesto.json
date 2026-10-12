@@ -164,6 +164,14 @@
         "alianca-estradeira"
       ],
       "extra": true
+    },
+    {
+      "slug": "matelandia-medianeira",
+      "nome": "Matelândia → Medianeira",
+      "kmInicio": 659.5,
+      "kmFim": 676.5,
+      "clubes": [],
+      "extra": true
     }
   ]
 }
