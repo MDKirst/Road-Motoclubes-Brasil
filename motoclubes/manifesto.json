@@ -25,6 +25,27 @@
       "patch": "preto"
     },
     {
+      "slug": "skeleto-s-da-estrada",
+      "nome": "Skeleto's da estrada",
+      "cidade": "Nova Olímpia",
+      "codigoIbge": "4117206",
+      "uf": "PR",
+      "pista": "cascavel",
+      "cores": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/skeleto-s-da-estrada/brasao.webp",
+      "miniatura": "motoclubes/skeleto-s-da-estrada/miniatura.webp",
+      "largura": 1080,
+      "altura": 1080,
+      "fundo": "recortado",
+      "patch": "claro"
+    },
+    {
       "slug": "gladius-mc-familia-y-hermandad",
       "nome": "Gladius MC - Familia y Hermandad",
       "cidade": "Ciudad Del Este",
@@ -124,7 +145,9 @@
       "kmCentro": 591.1058382994444,
       "kmInicio": 585.1058382994444,
       "kmFim": 597.1058382994444,
-      "clubes": []
+      "clubes": [
+        "skeleto-s-da-estrada"
+      ]
     },
     {
       "slug": "ceu-azul",
@@ -161,6 +184,7 @@
       "kmInicio": 733.8,
       "kmFim": 586.9,
       "clubes": [
+        "skeleto-s-da-estrada",
         "alianca-estradeira"
       ],
       "extra": true
