@@ -1,2 +1,6 @@
-Coloque aqui faixas MP3 livres de direitos (ex.: licença CC0 ou com permissão por escrito).
-Elas tocam em sequência durante as corridas. A lista é atualizada sozinha ao rodar npm run dev ou npm run build.
+Faixas MP3 que tocam em sequência (ordem sorteada) durante as corridas.
+A lista (lista.json) é atualizada sozinha ao rodar npm run dev ou npm run build.
+
+estrada-*.mp3: instrumentais gerados por IA com o ACE-Step 1.5 (licença MIT), no Kaggle,
+pelo notebook scripts/musica-ia/musica-ia-kaggle.ipynb. Só entram faixas livres de direitos
+(geradas por IA, CC0 ou com permissão por escrito).
