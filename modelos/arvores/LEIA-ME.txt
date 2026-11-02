@@ -1,0 +1,2 @@
+Árvores, pinheiro, arbusto e folhagem: Stylized Nature MegaKit, de Quaternius (quaternius.com) — licença CC0 (domínio público).
+Gerados por scripts/preparar-arvores.ts; o jogo fotografa cada modelo e usa a foto nos recortes de árvore (src/jogo/arvores.ts).
