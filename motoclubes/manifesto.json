@@ -25,6 +25,27 @@
       "patch": "preto"
     },
     {
+      "slug": "red-foot-mc",
+      "nome": "Red Foot MC",
+      "cidade": "Cafelândia",
+      "codigoIbge": "4103453",
+      "uf": "PR",
+      "pista": "cascavel",
+      "cores": [
+        "#DC2626",
+        "#000000"
+      ],
+      "coresExtraidas": false,
+      "colete": "couro",
+      "moto": "custom",
+      "brasao": "motoclubes/red-foot-mc/brasao.webp",
+      "miniatura": "motoclubes/red-foot-mc/miniatura.webp",
+      "largura": 365,
+      "altura": 293,
+      "fundo": "opaco",
+      "patch": "preto"
+    },
+    {
       "slug": "skeleto-s-da-estrada",
       "nome": "Skeleto's da estrada",
       "cidade": "Nova Olímpia",
@@ -146,6 +167,7 @@
       "kmInicio": 585.1058382994444,
       "kmFim": 597.1058382994444,
       "clubes": [
+        "red-foot-mc",
         "skeleto-s-da-estrada"
       ]
     },
@@ -184,6 +206,7 @@
       "kmInicio": 733.8,
       "kmFim": 586.9,
       "clubes": [
+        "red-foot-mc",
         "skeleto-s-da-estrada",
         "alianca-estradeira"
       ],
