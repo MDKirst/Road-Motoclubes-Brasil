@@ -1,5 +1,5 @@
 COURO & ASFALTO - BR-277
-Corrida de moto com briga em trechos reais da BR-277 (Paraná).
+Corrida de moto em trechos reais da BR-277 (Paraná).
 
 CONTROLES
 Teclado: W/S acelera e freia · A/D inclina · J/K soco · L chute ·
